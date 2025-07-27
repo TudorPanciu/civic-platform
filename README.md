@@ -3,7 +3,6 @@
 A comprehensive democratic participation portfolio platform featuring secure voting with automated reporting, social-style civic engagement, real-time communication, and production-ready administrative infrastructure. Built with production-grade security, performance optimization, and user experience design.
 
 **Live Demo**: [https://civic-platform.org](https://civic-platform.org)  
-**Architecture Documentation**: [Link to your public repository]
 
 ### Key Capabilities
 
